@@ -1,3 +1,21 @@
+
+# therap_finder description of the project
+
+This web application allows therapists and their customers to connect with each other, with appointment scheduling and payment via PayPal.
+The therapists can also:
+
+-Add their areas of expertise, 
+-Manage their appointments
+-Add their products to market them(only available on web platform)
+-Access payments via Paypal
+
+The therapists can:
+-Search for a therapist based on their area and specialty
+-Consult and book appointments
+-Purchase products on the platform and pay via PayPal
+
+The project have been made with the Framwork Laravel, it's a web application with also backend code used by the mobile side
+
 # [Soft UI Dashboard Laravel](https://soft-ui-dashboard-laravel.creative-tim.com/login)
 
 ![version](https://img.shields.io/badge/version-1.0.0-blue.svg) 
@@ -457,22 +475,5 @@ Updivision Blog: <https://updivision.com/blog/?ref=sudl-readme>
 
 - [Creative Tim](https://creative-tim.com/?ref=sudl-readme)
 - [UPDIVISION](https://updivision.com)
-- 
-# therap_finder description of the project
-
-This web application allows therapists and their customers to connect with each other, with appointment scheduling and payment via PayPal.
-The therapists can also:
-
--Add their areas of expertise, 
--Manage their appointments
--Add their products to market them(only available on web platform)
--Access payments via Paypal
-
-The therapists can:
--Search for a therapist based on their area and specialty
--Consult and book appointments
--Purchase products on the platform and pay via PayPal
-
-The project have been made with the Framwork Laravel, it's a web application with also backend code used by the mobile side
 
 
